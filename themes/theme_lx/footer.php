@@ -13,7 +13,7 @@
 				<i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
                   </span></a>
-				<iframe src="https://ghbtns.com/github-btn.html?user=amirodz&repo=blood-donate&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+				<iframe src="https://ghbtns.com/github-btn.html?user=amirodz&repo=blood-donation-arabe&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
   
            <!-- <a href=""><i class="fab fa-instagram"></i></a>
             <a href=""><i class="fab fa-twitter"></i></a> --></p>
