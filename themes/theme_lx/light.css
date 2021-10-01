@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: 'cairo';
+    font-style: normal;
+    font-weight: 700;
+    src: url('cairo.woff2') format('woff2');
+}
+/* Your styles here */
+body {
+	background: transparent;
+	color: #101010;
+	font-size: 14px;
+	font-family:'cairo', "Comic Sans MS", Courier, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ul.ul-unstyled {
+    list-style-type: none
+}
+
+.btn-primary{
+    background-color: #008dd0;
+    border-color: #008dd0;
+}
+.btn-primary:hover{
+    background-color: #007abc;
+    border-color: #007abc;
+}
+footer {
+    background: #343a40;
+    padding: 40px;
+}
+footer a {
+    color: #f8f9fa!important
+}
+/********************** POST ************************/
+.post-article {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: black;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.post-article ul li{
+    font-size: 20px;
+}
+/********************** MENU TOP ************************/
+.navbar {
+	background-color: white;
+	padding-bottom: 12px;
+}
+
+.navbar .navbar-nav>li>a {
+	color: #0b0b0b;
+}
+/********************** FIN MENU TOP ************************/
